@@ -12,6 +12,7 @@ namespace Task3
         static void Main(string[] args)
         {
 
+
             ///// part 1 /////
 
             //int[] ARR = { 1, 7, 9, 45 };
